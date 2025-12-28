@@ -1,0 +1,101 @@
+Player,Team,Mat,Inns,Ct,Max,Ct/Inn
+AK Markram,South Africa,9,9,8,4,0.888
+GJ Maxwell,Australia,7,7,7,4,1
+HC Brook,England,8,8,7,2,0.875
+T Stubbs,South Africa,9,9,7,2,0.777
+Tanzim Hasan Sakib,Bangladesh,7,7,6,2,0.857
+Mohammad Nabi,Afghanistan,8,8,6,2,0.75
+H Klaasen,South Africa,9,9,6,2,0.666
+LV van Beek,Netherlands,4,4,5,3,1.25
+J Charles,West Indies,6,6,5,2,0.833
+TH David,Australia,7,7,5,2,0.714
+R Powell,West Indies,7,7,5,2,0.714
+Gulbadin Naib,Afghanistan,8,8,5,1,0.625
+PD Salt,England,8,8,5,1,0.625
+RG Sharma,India,8,8,5,2,0.625
+SA Yadav,India,8,8,5,2,0.625
+KIC Asalanka,Sri Lanka,3,3,4,2,1.333
+PHKD Mendis,Sri Lanka,3,3,4,2,1.333
+SA Engelbrecht,Netherlands,4,4,4,2,1
+DJ Mitchell,New Zealand,4,4,4,3,1
+MA Starc,Australia,5,5,4,2,0.8
+RL Chase,West Indies,6,6,4,2,0.666
+JR Hazlewood,Australia,6,6,4,1,0.666
+Najmul Hossain Shanto,Bangladesh,7,7,4,2,0.571
+DA Warner,Australia,7,7,4,1,0.571
+AR Patel,India,8,8,4,1,0.5
+Rashid Khan,Afghanistan,8,8,4,2,0.5
+RR Hendricks,South Africa,9,9,4,2,0.444
+M Jansen,South Africa,9,9,4,2,0.444
+Soumya Sarkar,Bangladesh,2,2,3,2,1.5
+DS Airee,Nepal,3,3,3,2,1
+MA Jones,Scotland,4,3,3,2,1
+BFW de Leede,Netherlands,4,4,3,2,0.75
+GD Phillips,New Zealand,4,4,3,1,0.75
+D Wiese,Namibia,4,4,3,2,0.75
+AS Joseph,West Indies,7,7,3,1,0.428
+Rishad Hossain,Bangladesh,7,7,3,2,0.428
+AD Russell,West Indies,7,7,3,2,0.428
+Shakib Al Hasan,Bangladesh,7,7,3,1,0.428
+Arshdeep Singh,India,8,8,3,1,0.375
+RA Jadeja,India,8,8,3,3,0.375
+DA Miller,South Africa,9,9,3,1,0.333
+K Rabada,South Africa,9,9,3,2,0.333
+KR Mayers,West Indies,1,1,2,2,2
+Mohammad Rizwan,Pakistan,4,1,2,2,2
+S Lamichhane,Nepal,2,2,2,1,1
+Shoaib Khan,Oman,2,2,2,2,1
+GH Dockrell,Ireland,3,3,2,1,0.666
+PW Hasaranga,Sri Lanka,3,3,2,1,0.666
+Imad Wasim,Pakistan,3,3,2,2,0.666
+A Johnson,Canada,3,3,2,1,0.666
+JB Little,Ireland,3,3,2,2,0.666
+B McMullen,Scotland,4,3,2,1,0.666
+Mohammed Siraj,India,3,3,2,2,0.666
+RG Mukasa,Uganda,3,3,2,2,0.666
+AK Sah,Nepal,3,3,2,1,0.666
+HT Tector,Ireland,3,3,2,2,0.666
+M Theekshana,Sri Lanka,3,3,2,1,0.666
+MRJ Watt,Scotland,4,3,2,1,0.666
+Fakhar Zaman,Pakistan,4,4,2,2,0.5
+LH Ferguson,New Zealand,4,4,2,1,0.5
+Jaker Ali,Bangladesh,4,4,2,1,0.5
+VJ Kingma,Netherlands,4,4,2,2,0.5
+B Masaba,Uganda,4,4,2,1,0.5
+Mohammad Amir,Pakistan,4,4,2,1,0.5
+MP O'Dowd,Netherlands,4,4,2,2,0.5
+AR Ramjani,Uganda,4,4,2,1,0.5
+R Trumpelmann,Namibia,4,4,2,1,0.5
+A Vala,Papua New Guinea,4,4,2,2,0.5
+SM Curran,England,5,5,2,1,0.4
+CJ Jordan,England,5,5,2,1,0.4
+Kuldeep Yadav,India,5,5,2,1,0.4
+MA Wood,England,5,5,2,1,0.4
+CJ Anderson,United States of America,6,6,2,1,0.333
+Harmeet Singh,United States of America,6,6,2,1,0.333
+NR Kumar,United States of America,6,6,2,1,0.333
+SR Taylor,United States of America,6,6,2,2,0.333
+Karim Janat,Afghanistan,7,7,2,1,0.285
+MR Marsh,Australia,7,7,2,1,0.285
+Noor Ahmad,Afghanistan,7,7,2,2,0.285
+SE Rutherford,West Indies,7,7,2,1,0.285
+Towhid Hridoy,Bangladesh,7,7,2,1,0.285
+A Zampa,Australia,7,7,2,2,0.285
+MM Ali,England,8,8,2,1,0.25
+JJ Bumrah,India,8,8,2,1,0.25
+Ibrahim Zadran,Afghanistan,8,8,2,1,0.25
+V Kohli,India,8,8,2,1,0.25
+LS Livingstone,England,8,8,2,1,0.25
+KA Maharaj,South Africa,8,8,2,1,0.25
+HH Pandya,India,8,8,2,1,0.25
+A Nortje,South Africa,9,9,2,1,0.222
+F Achelam,Uganda,1,1,1,1,1
+BJ Currie,Scotland,2,1,1,1,1
+Mohammad Nadeem,Oman,1,1,1,1,1
+AC Agar,Australia,2,2,1,1,0.5
+Iftikhar Ahmed,Pakistan,2,2,1,1,0.5
+Junaid Siddiqui,Canada,2,2,1,1,0.5
+SI Kamea,Papua New Guinea,2,2,1,1,0.5
+Karan KC,Nepal,2,2,1,1,0.5
+Milind Kumar,United States of America,2,2,1,1,0.5
+JDS Neesham,New Zealand,2,2,1,1,0.5
